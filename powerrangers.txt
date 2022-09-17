@@ -1,0 +1,6 @@
+EMS Export powerrangers.txt
+111111111,Red Ranger,9161111111,r.ranger@alpha.com,5619.22
+222222222,Pink Ranger,9162222222,p.ranger@alpha.com,65191.22
+333333333,Blue Ranger,9163333333,blu.ranger@alpha.com,65191.22
+444444444,Black Ranger,9164444444,bla.ranger@alpha.com,65191.22
+555555555,Yellow Ranger,9165555555,y.ranger@alpha.com,65191.22
